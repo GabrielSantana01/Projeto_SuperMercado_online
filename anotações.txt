@@ -1,0 +1,17 @@
+para criar um ambiente virtual é preciso alem de ter o virtualenv instalado, colocar o comando 
+
+python -m venv minhavenv
+
+para ativar o ambiente
+nome_da_virtualenv/Scripts/Activate
+
+apos isso instalar todas as ferramentas de trabalho
+
+pip list -- para ver todas as bibliotecas instaladas
+
+devemos associar o jupyter com o ambiente virtual atraves do camando abaixo:
+
+python -m ipykernel install --user --name=ambienteVirtual
+
+uninstall numpy
+pip install numpy==1.19.3
