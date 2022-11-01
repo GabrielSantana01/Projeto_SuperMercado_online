@@ -33,6 +33,7 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
 https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-web-com-beautiful-soup-and-python-3-pt
 
 <div size="16" class="price-tag-normalstyle__LabelPrice-sc-1co9fex-0 lkWvql">R$5,49</div>
+<div class="price-tag-normalstyle__LabelPrice-sc-1co9fex-0 lkWvql" size="16">R$4,89</div>
 
 
 
