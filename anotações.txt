@@ -6,7 +6,9 @@ py -m venv minhavenv
 para ativar o ambiente
 nome_da_virtualenv/Scripts/Activate
 
-apos isso instalar todas as ferramentas de trabalho
+apos isso instalar todas as ferramentas de trabalho(todas as libs)
+pip install conda
+pip install pandas
 
 pip list -- para ver todas as bibliotecas instaladas
 
