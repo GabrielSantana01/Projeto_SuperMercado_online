@@ -1,6 +1,7 @@
 para criar um ambiente virtual é preciso alem de ter o virtualenv instalado, colocar o comando 
 
-python -m venv minhavenv
+python -m venv minhavenv ou
+py -m venv minhavenv
 
 para ativar o ambiente
 nome_da_virtualenv/Scripts/Activate
