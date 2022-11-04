@@ -9,6 +9,8 @@ nome_da_virtualenv/Scripts/Activate
 apos isso instalar todas as ferramentas de trabalho(todas as libs)
 pip install conda
 pip install pandas
+pip install requests
+pip install BeautifulSoup4
 
 pip list -- para ver todas as bibliotecas instaladas
 
