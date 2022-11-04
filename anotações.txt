@@ -16,7 +16,9 @@ pip list -- para ver todas as bibliotecas instaladas
 
 devemos associar o jupyter com o ambiente virtual atraves do camando abaixo:
 
-python -m ipykernel install --user --name=ambienteVirtual
+ipython kernel install --user --name=ambienteVirtual ou
+python -m ipykernel install --user --name=ambienteVirtual 
+
 
 uninstall numpy
 pip install numpy==1.19.3
