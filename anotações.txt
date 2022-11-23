@@ -39,7 +39,9 @@ https://reulison.com.br/web-scraping-python/
 https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
 https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-web-com-beautiful-soup-and-python-3-pt
 
+para atualizar o pip
 
+python -m pip install --upgrade pip
 
 
 
