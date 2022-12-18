@@ -1,3 +1,5 @@
+Para q o pip funcione no Windows 10, devemos colocar o diretório do anaconda3
+Dentro de path lá variáveis de ambiente.colocando a pasta anaconda3, scripts, Library\bin.
 para criar um ambiente virtual é preciso alem de ter o virtualenv instalado, colocar o comando 
 
 python -m venv minhavenv ou
